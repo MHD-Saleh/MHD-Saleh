@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/mhd98saleh" target="blank"><img src="https://img.shields.io/twitter/follow/mhd98saleh?logo=twitter&style=for-the-badge" alt="mhd98saleh" /></a> </p>
 
-<p>im mohammed saleh from syria, iam software developer and graphic design, I Really enjoy learing languages and frameworks, i merge my project with my experience with graphic design so my project looks kind of cool,i will post all my project here soon and I hope you benefit from it </p>
+<p>i'm mohammed saleh from syria, i'm software developer and graphic design, I Really enjoy learing languages and frameworks, I merge my project with my experience with graphic design so my project looks kind of cool,i will post all my project here soon and I hope you benefit from it, if You Like my content Don't forget to leave a star ⭐️ </p>
+
 - 🌱 my favorite Topic is  **React js**  **Flutter**  **Arduino**
 
 - 📫 **available at all of my social media account**
